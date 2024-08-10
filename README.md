@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **Devops.**
 
-- 💬 Ask me about **MERN Stack development, Web applications, DevOps practices**
+- 💬 Ask me about **MERN Stack development, Web applications, Machine Learning**
 
 - 📫 To reach out to me: **yashchoudhary.tech@gmail.com**
 
