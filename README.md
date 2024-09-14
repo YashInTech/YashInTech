@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Choudhary.</h1>
 <h3 align="center">A passionate MERN Stack Developer from India, currently exploring DevOps.</h3>
 
-- 🔭 Currently working on **MERN Stack Projects.**
+- 🔭 Currently working on **MERN Stack Projects**
 
-- 🌱 Currently learning **Next.js.**
+- 🌱 Currently learning **Next.js**
 
-- 💬 Ask me about **MERN Stack development, Web applications, Machine Learning**
+- 💬 Ask me about **MERN Stack development, Web applications**
 
 - 📫 To reach out to me: **yashchoudhary.tech@gmail.com**
 
