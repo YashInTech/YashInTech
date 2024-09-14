@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on **MERN Stack Projects.**
 
-- 🌱 Currently learning **Devops.**
+- 🌱 Currently learning **Next.js.**
 
 - 💬 Ask me about **MERN Stack development, Web applications, Machine Learning**
 
