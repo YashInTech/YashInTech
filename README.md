@@ -122,6 +122,8 @@
 </div>
 
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashInTech&show_icons=true&locale=en&layout=compact" alt="YashInTech" /></p>
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashInTech&show_icons=true&locale=en&layout=compact" height="150" alt="stats graph" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashInTech&show_icons=true&locale=en" alt="YashInTech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashInTech&show_icons=true&locale=en" height="150" alt="languages graph" /></p>
+</div>
