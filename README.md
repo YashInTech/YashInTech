@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">🔭 Currently working on MERN Stack Projects<br>🌱 Strengthening my problem-solving skills<br>🗺️ Exploring Next.js<br>💬 Ask me about MERN Stack development, Web applications<br>📫 To reach out to me: yashchoudhary.tech@gmail.com<br>⚡ Fun fact: I can spend hours debugging code and still get excited about finding the solution like it’s a treasure hunt! Hehe😅</p>
+<p align="left">🔭 Currently working on MERN Stack Projects<br>
+  🌱 Strengthening my problem-solving skills<br>
+  🗺️ Exploring Next.js<br>
+  💬 Ask me about MERN Stack development, Web applications<br>
+  📫 To reach out to me: yashchoudhary.tech@gmail.com<br>
+  ⚡ Fun fact: I can spend hours debugging code and still get excited about finding the solution like it’s a treasure hunt! Hehe😅
+</p>
 
 ###
 
@@ -20,6 +26,15 @@
 </a>
 <a href="https://twitter.com/YashInTech">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+</a>
+<a href="https://hashnode.com/yashintech">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="yashintech" height="40" width="52" />
+</a>
+<a href="https://www.leetcode.com/yashintech" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashintech" height="40" width="52" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/yashuwho">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashuwho" height="40" width="52" />
 </a>
 <a href="https://dev.to/yashintech">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo" />
@@ -124,14 +139,9 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashInTech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashInTech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashInTech&show_icons=true&locale=en&layout=compact" height="150" alt="stats graph" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YashInTech&show_icons=true&locale=en" height="150" alt="languages graph" />
 </div>
+
+###
